@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi, I'm Eugene 👋
 
-<!--
-**DCWS-dev/DCWS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18 y.o. frontend developer from Saint‑Petersburg, Russia.  
+I write clean, simple and readable interfaces and grow towards commercial development and senior level.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+- JavaScript / TypeScript  
+- React, Vite  
+- REST APIs, FastAPI  
+- Git, unit testing  
+- Experience with WebGL and WebRTC/WebSocket
+
+---
+
+### Projects
+
+- [cubes](https://github.com/DCWS-dev/cubes) – pet‑project with loading imitation and theme switcher  
+- [vizitko](https://github.com/DCWS-dev/vizitko) – minimalistic online business card  
+- [user-management-app](https://github.com/DCWS-dev/user-management-app) – small user CRUD app
+
+---
+
+### About me
+
+- Learning Japanese (goal: JLPT N3+)  
+- Hosting pet‑projects on my own server  
+- Building a long‑term roadmap for my growth as a frontend developer
+
+---
+
+### Contacts
+
+- Website: [vizitko.vercel.app](https://vizitko.vercel.app)  
+- Telegram: [@ranryuu_teto](https://t.me/ranryuu_teto)
+
