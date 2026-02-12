@@ -33,6 +33,6 @@ I write clean, simple and readable interfaces and grow towards commercial develo
 
 ### Contacts
 
-- Website: [vizitko.vercel.app](https://vizitko.vercel.app)  
+- Website: [vizitko.vercel.app](https://vizitko-v2.vercel.app)  
 - Telegram: [@ranryuu_teto](https://t.me/ranryuu_teto)
 
