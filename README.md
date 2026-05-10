@@ -1,7 +1,7 @@
 ### Hi, I'm Eugene 👋
 
-18 y.o. frontend developer from Saint‑Petersburg, Russia.  
-I write clean, simple and readable interfaces and grow towards commercial development and senior level.
+18 y.o. frontend dev, built and shipped a commercial product for a real business. 
+Can do the same for you in 2–3 days. Fixed price, crypto OK
 
 ---
 
